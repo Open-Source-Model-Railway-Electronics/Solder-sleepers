@@ -1,3 +1,3 @@
 # Solder-sleepers
 
-![Solder Sleepers](hardware/Solder-sleepers.png)
+![Solder Sleepers](docs/Solder-sleepers.png)
